@@ -4,7 +4,7 @@ https://camo.githubusercontent.com/0fa19691a26d71418788c5277d208d458e4b1296b1adf
 In this project, I began practicing object-oriented programming using classes and objects in Python. I learned about attributes, methods, and properties as well as data abstraction, data encapsulation, and information hiding.
 
 # Tests ✔️
-https://github.com/Lordwill1/alx-higher_level_programming/blob/master/0x06-python-classes/tests Folder of test files. Provided by Holberton School.
+https://github.com/dinta-coder/alx-higher_level_programming/blob/master/0x06-python-classes/tests Folder of test files. Provided by Holberton School.
 Tasks 📃0. My first square
 
 0-square.py: Python class Square that defines a square.
