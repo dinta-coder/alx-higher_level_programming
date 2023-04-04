@@ -1,0 +1,10 @@
+#Python - Everything is object
+https://camo.githubusercontent.com/678ee8222e30981df2040ea1efa63b2bd824fba5da0d3a279d8a585bdf6acabc/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f696e7472616e65742d70726f6a656374732d66696c65732f686f6c626572746f6e7363686f6f6c2d6869676865722d6c6576656c5f70726f6772616d6d696e672b2f3235322f725f3230383430335f5150534e382e6a7067
+
+In this project, I studied object instantiation in Python, delving into variable aliasing and object identifiers, types, and mutability. The project involved a series of quiz-like questions the answers to which I provided in single-line .txt files.
+
+alt text
+
+https://camo.githubusercontent.com/bb8249b3cf3115abe084eee0e202a08d8c262cd7ec8e50f9827edbb0cf62e7a6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f77416a6651394d4c5566466a712f67697068792e676966
+
+#Tests✔️
